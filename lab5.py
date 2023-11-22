@@ -37,10 +37,10 @@ class Race:
             horse.place_in_race = i + 1
 
 
-horse1 = RaceHorse(10, 7, "horse 1")
-horse2 = RaceHorse(12, 5, "horse 2")
-horse3 = RaceHorse(16, 3, "horse 3")
-horse4 = RaceHorse(9, 7, "horse 4")
+horse1 = RaceHorse(10, 7, "Valkyrie")
+horse2 = RaceHorse(12, 5, "Silver Bullet")
+horse3 = RaceHorse(16, 3, "Hono")
+horse4 = RaceHorse(9, 7, "Roxanne")
 
 if __name__ == '__main__':
 
